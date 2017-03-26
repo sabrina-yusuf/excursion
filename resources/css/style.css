@@ -10,6 +10,22 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+p {
+  color: gray;
+  text-align: right;
+}
+
 #link {
   font-size: 16px;
   color: aquamarine;
